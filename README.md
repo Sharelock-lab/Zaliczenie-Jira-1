@@ -1,1 +1,1 @@
-Konfigutacja DB
+Konfiguracja API Konfigutacja DB
