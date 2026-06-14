@@ -1,2 +1,1 @@
-# Zaliczenie-Jira-1
-ty
+Konfigutacja DB
